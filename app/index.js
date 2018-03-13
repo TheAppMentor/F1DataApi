@@ -51,8 +51,7 @@ function parseCSVFile(filePath) {
                 })
             .catch((err) => {
                 console.log(err)
-            }
-            )
+            })
     })
 }
 
